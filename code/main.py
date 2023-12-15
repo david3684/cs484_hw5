@@ -14,15 +14,15 @@ from pca_visualize import pca_visualize
 #feature = 'HoG'
 feature = 'SIFT'
 
-kernel_type = 'RBF'
-#kernel_type = 'linear'
+#kernel_type = 'RBF'
+kernel_type = 'linear'
 
 pca_out_dim = 2
-#representation = 'bag of words'
-representation = 'spatial_pyramid_feats'
+representation = 'bag of words'
+#representation = 'spatial_pyramid_feats'
 max_level = 2
 classifier = 'SVM'
-data_path = 'C:/Users/David Lee/Desktop/hw5_2023f/data'
+data_path = '/Users/treblocami/Desktop/job/cs484_hw5/data'
 
 
 categories = ['Kitchen', 'Store', 'Bedroom', 'LivingRoom', 'Office',

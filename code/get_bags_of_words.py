@@ -32,15 +32,12 @@ def get_bags_of_words(image_paths, feature):
         img = cv2.imread(path)
         features = feature_extraction(img, feature)
 
-        # 각 특징에 대한 가장 가까운 시각 단어 찾기
         distances = pdist(features, vocab)
         closest_vocab_indices = np.argmin(distances, axis=1)
 
-        # 히스토그램 구성
         for idx in closest_vocab_indices:
             bags_of_words[i, idx] += 1
 
-        # L2-노름으로 히스토그램 정규화
         bags_of_words[i, :] /= linalg.norm(bags_of_words[i, :])
 
     return bags_of_words

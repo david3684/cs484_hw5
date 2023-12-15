@@ -125,7 +125,7 @@ def create_results_webpage(train_image_paths,
     # Write result html file
     result_html = '\n'.join(row_htmls)
 
-    with open('C:/Users/David Lee/Desktop/hw5_2023f/code/template.html', 'r') as template_file:
+    with open('/Users/treblocami/Desktop/job/cs484_hw5/code/template.html', 'r') as template_file:
         template_html = template_file.read()
 
     template_html = template_html.replace('%accuracy%', '%.3f' % accuracy)
