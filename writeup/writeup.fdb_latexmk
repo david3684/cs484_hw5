@@ -1,6 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1702620741 "/Users/treblocami/Desktop/job/cs484_hw5/writeup/writeup.tex" "writeup.pdf" "writeup" 1702620742 0
-  "/Users/treblocami/Desktop/job/cs484_hw5/writeup/writeup.tex" 1702620741 8902 8f5e33d5873078c23e2fdf3a45610d8b ""
+["pdflatex"] 1702627314 "/Users/treblocami/Desktop/job/cs484_hw5/writeup/writeup.tex" "writeup.pdf" "writeup" 1702627315 0
+  "../pca_dimension2.png" 1702625197 184401 ea5a6a80da7bc49e28701ca26355360c ""
+  "../pca_dimension3.png" 1702625189 363085 b39d05083338d2351d072b11b2ab5e7f ""
+  "/Users/treblocami/Desktop/job/cs484_hw5/writeup/writeup.tex" 1702627313 14619 f8fd406a726183f0802e22e08497ec6c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/courier/pcrb7t.tfm" 1136768653 960 4ab65358b8406f30ef5496c8c096d22b ""
@@ -30,7 +32,9 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb" 1136849748 50493 4ed1f7e9eba8f1f3e1ec25195460190d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb" 1136849748 45758 19968a0990191524e34e1994d4a31cb6 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb" 1136849748 44404 ea3d9c0311883914133975dd62a9185c ""
@@ -124,10 +128,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1694349121 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1694349048 7883455 7dddcdc6e354dd4e2b8d4d3d5787223a ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "placeholder.jpg" 1702617776 8389 742670e4e60fddc4268285912cf96995 ""
-  "writeup.aux" 1702620742 1236 a4763fdf4c138f032eacf4c32a71ab7b "pdflatex"
-  "writeup.out" 1702620741 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "writeup.tex" 1702620741 8902 8f5e33d5873078c23e2fdf3a45610d8b ""
+  "writeup.aux" 1702627315 1596 5b39401baa754f98a14e7cfdc2ce7fda "pdflatex"
+  "writeup.out" 1702627315 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "writeup.tex" 1702627313 14619 f8fd406a726183f0802e22e08497ec6c ""
   (generated)
   "writeup.aux"
   "writeup.log"
